@@ -1,2 +1,1 @@
- # ggplot2 tutorial
-# ggplot-jgi
+# ggplot2 tutorial
